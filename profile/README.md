@@ -18,6 +18,7 @@ PvP should be easy, and finding a good training server should be too. With  Wyve
 - Learn more about [Wyvern Cove](https://www.wyverncove.com) or at [Wyvern PvP](https://www.pvpwyvern.com)
 - Support us by donating [here](https://ko-fi.com/icewaffles)
 
+## Want to find us? Join either discord below!
 
 <a href="https://discord.gg/kDF6hPsEgr" align = "center">
          <img alt="Wyvern Cove Discord" src="https://discord.com/api/guilds/822574048949043250/widget.png?style=banner2">
