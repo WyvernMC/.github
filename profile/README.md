@@ -1,7 +1,7 @@
 <h2 align="center"> ━━━━━━  ❖  ━━━━━━ </h2>
 
 
-<!--<h1 align="center"> <img src=""> </h1> add an image here-->
+<h1 align="center"> <img src="https://raw.githubusercontent.com/WyvernMC/.github/main/profile/assets/newheader.png"> </h1>
 
 WyvernMC is the development group for the two Minecraft servers [Wyvern Cove](https://www.wyverncove.com/) and [Wyvern PvP](https://www.pvpwyvern.com/). 
 
