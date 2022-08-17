@@ -12,12 +12,11 @@ The perfect balance of a semi-vanilla survival server, and the only one you'll e
 
 ## The Wyvern PvP Experience
 
-Put Something here
+PvP should be easy, and finding a good training server should be too. With  Wyvern PvP, you can easily create custom kits, choose your set gamemodes, join an FFA, team up with a partner, and the list goes on...
 
 ## Quickstart:
-- Learn more and on our website, [https://www.wyverncove.com](https://www.wyverncove.com)
-- Support us by donating through [https://wyvern-cove-store.tebex.io](https://wyvern-cove-store.tebex.io)
-- Vote for us on [5 different platforms](https://discord.gg/J5qNNymBAQ)(and get rewards ingame for doing so!)
+- Learn more about [Wyvern Cove](https://www.wyverncove.com) or at [Wyvern PvP](https://www.pvpwyvern.com)
+- Support us by donating [here](https://ko-fi.com/icewaffles)
 
 
 <a href="https://discord.gg/kDF6hPsEgr" align = "center">
