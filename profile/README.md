@@ -12,16 +12,19 @@ The perfect balance of a semi-vanilla survival server, and the only one you'll e
 
 ## The Wyvern PvP Experience
 
-Put Something here
+Wyvern PvP aims to bring you one of the most excellent PvP practice servers to date! We'll always be on modern versions, to keep up with the latest mechanics. PvP should be easy, and finding a good training server should be too. With our server, you can easily create custom kits, choose your set gamemodes, join an FFA, team up with a partner, and the list goes on! Did someone mention special events? We'll host that too. Join up with friends or fight solo in these server-wide tournaments and prove your PvP skills! Oh, and it's also crossplay: bedrock users can join too!
 
 ## Quickstart:
 - Learn more and on our website, [https://www.wyverncove.com](https://www.wyverncove.com)
-- Support us by donating through [https://wyvern-cove-store.tebex.io](https://wyvern-cove-store.tebex.io)
 - Vote for us on [5 different platforms](https://discord.gg/J5qNNymBAQ)(and get rewards ingame for doing so!)
 
 
 <a href="https://discord.gg/kDF6hPsEgr" align = "center">
          <img alt="Wyvern Cove Discord" src="https://discord.com/api/guilds/822574048949043250/widget.png?style=banner2">
+</a>
+
+<a href="https://discord.gg/FEGDjd6C8D" align = "center">
+         <img alt="Wyvern PvP Discord" src="https://discord.com/api/guilds/950066004036317215/widget.png?style=banner2">
 </a>
 
 
