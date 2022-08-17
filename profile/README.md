@@ -1,7 +1,7 @@
 <h2 align="center"> ━━━━━━  ❖  ━━━━━━ </h2>
 
 
-<h1 align="center"> <img src="https://raw.githubusercontent.com/WyvernMC/.github/main/profile/assets/header.png"> </h1>
+<h1 align="center"> <img src="https://raw.githubusercontent.com/WyvernMC/.github/main/assets/header.png"> </h1>
 
 WyvernMC is the development group for the two Minecraft servers [Wyvern Cove](https://www.wyverncove.com/) and [Wyvern PvP](https://www.pvpwyvern.com/). 
 
@@ -21,7 +21,7 @@ Put Something here
 
 
 <a href="https://discord.gg/kDF6hPsEgr" align = "center">
-         <img alt="Vanilla Earth Discord" src="https://discord.com/api/guilds/918270591499403304/widget.png?style=banner2">
+         <img alt="Wyvern Cove Discord" src="https://discord.com/api/guilds/822574048949043250/widget.png?style=banner2">
 </a>
 
 
