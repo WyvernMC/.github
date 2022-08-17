@@ -15,16 +15,17 @@ WyvernMC is the development group for the two Minecraft servers [Wyvern Cove](ht
 PvP should be easy, and finding a good training server should be too. So, Wyvern PvP aims to bring you one of the most excellent PvP practice servers to date! With our server, you can easily create custom kits, choose your set gamemodes, join an FFA, team up with a partner, and the list goes on... Oh, and it's also crossplay: Bedrock users can join too.
 
 ## Quickstart:
+
 - Learn more about [Wyvern Cove](https://www.wyverncove.com) and [Wyvern PvP](https://www.pvpwyvern.com)
 - Want to check us out or contact us? Join either discord below!
 
-<p style="text-align:center;">
-<a href="https://discord.gg/kDF6hPsEgr" align = "center">
+<h2 align="center"> <a href="https://discord.gg/kDF6hPsEgr" align = "center">
           <img alt="Wyvern Cove Discord" src="https://discord.com/api/guilds/822574048949043250/widget.png?style=banner2"> 
 </a>
 <a href="https://discord.gg/FEGDjd6C8D" align = "center">
-        <p style="text-align:center;"> <img alt="Wyvern PvP Discord" src="https://discord.com/api/guilds/950066004036317215/widget.png?style=banner2">
+         <img alt="Wyvern PvP Discord" src="https://discord.com/api/guilds/950066004036317215/widget.png?style=banner2">
 </a>
-</p>
+</h2>
+
 
 <h2 align="center"> ━━━━━━  ❖  ━━━━━━ </h2>
