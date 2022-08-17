@@ -19,6 +19,8 @@ Wyvern PvP aims to bring you one of the most excellent PvP practice servers to d
 - Vote for us on [5 different platforms](https://discord.gg/J5qNNymBAQ)(and get rewards ingame for doing so!)
 
 
+
+<center>
 <a href="https://discord.gg/kDF6hPsEgr" align = "center">
          <img alt="Wyvern Cove Discord" src="https://discord.com/api/guilds/822574048949043250/widget.png?style=banner2">
 </a>
@@ -26,6 +28,7 @@ Wyvern PvP aims to bring you one of the most excellent PvP practice servers to d
 <a href="https://discord.gg/FEGDjd6C8D" align = "center">
          <img alt="Wyvern PvP Discord" src="https://discord.com/api/guilds/950066004036317215/widget.png?style=banner2">
 </a>
+</center>
 
 
 <h2 align="center"> ━━━━━━  ❖  ━━━━━━ </h2>
