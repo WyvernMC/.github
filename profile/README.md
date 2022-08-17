@@ -18,9 +18,7 @@ PvP should be easy, and finding a good training server should be too. So, Wyvern
 - Learn more about [Wyvern Cove](https://www.wyverncove.com) and [Wyvern PvP](https://www.pvpwyvern.com)
 - Want to check us out or contact us? Join either discord below!
 
-
-
-<center>
+<p style="text-align:center">
 <a href="https://discord.gg/kDF6hPsEgr" align = "center">
          <img alt="Wyvern Cove Discord" src="https://discord.com/api/guilds/822574048949043250/widget.png?style=banner2">
 </a>
@@ -28,7 +26,6 @@ PvP should be easy, and finding a good training server should be too. So, Wyvern
 <a href="https://discord.gg/FEGDjd6C8D" align = "center">
          <img alt="Wyvern PvP Discord" src="https://discord.com/api/guilds/950066004036317215/widget.png?style=banner2">
 </a>
-</center>
-
+</p>
 
 <h2 align="center"> ━━━━━━  ❖  ━━━━━━ </h2>
